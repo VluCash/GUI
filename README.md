@@ -1,4 +1,4 @@
-## Building Freelabit Wallet
+## Building VluCash Wallet
 
 ### On *nix:
 
