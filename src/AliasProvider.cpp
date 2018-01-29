@@ -17,9 +17,9 @@
 
 namespace WalletGui {
 
-Q_DECL_CONSTEXPR char ALIAS_OBJECT_NAME[] = "freelabit";
+Q_DECL_CONSTEXPR char ALIAS_OBJECT_NAME[] = "vlucash";
 Q_DECL_CONSTEXPR char ALIAS_NAME_TAG[] = "name";
-Q_DECL_CONSTEXPR char ALIAS_ADDRESS_TAG[] = "FLB";
+Q_DECL_CONSTEXPR char ALIAS_ADDRESS_TAG[] = "VLU";
 
 AliasProvider::AliasProvider(QObject *parent) : QObject(parent), m_networkManager() {
 }
